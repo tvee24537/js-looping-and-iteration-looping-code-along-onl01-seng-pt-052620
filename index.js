@@ -6,3 +6,4 @@ function countDown (start) {
     }
 
     return i;
+}
