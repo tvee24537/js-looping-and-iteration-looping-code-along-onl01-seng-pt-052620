@@ -1,2 +1,5 @@
 // Code your solutions in this file
-countDown(10);
+let countDown = 0;
+while (countDown < 10) {
+  console.log(countDown++);
+}
